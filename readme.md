@@ -1,7 +1,6 @@
 # Mintlify-Landing Page clone 
-![Hero]("assets/readme-image-1.png")
-![Cards]("assets/readme-image-2.png")
-
+![Hero](./assets/260207_13h06m45s_screenshot.png)
+![Card](./assets/260207_13h06m56s_screenshot.png)
 ## Color Codes used 
     --border-color: #93939426;
     --border-color: #93939440;
