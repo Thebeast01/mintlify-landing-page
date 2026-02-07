@@ -80,6 +80,10 @@ nav {
     color: #fff;
 }
 
+.explore-for-enterprise-btn {
+    color: black;
+}
+
 .button-container {
     display: flex;
     justify-content: space-between;
